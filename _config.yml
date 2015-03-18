@@ -1,0 +1,10 @@
+# Site settings
+title: Boyan
+email: boyan.wan@gmail.com
+description: 柏言写字的地方。
+baseurl: # the subpath of your site, e.g. /blog/
+url: "http://boyanwan.com" # the base hostname & protocol for your site
+
+
+# Build settings
+markdown: kramdown
